@@ -1,0 +1,10 @@
+so all I want to include on my website:
+idea: to use it in further instances also in my portfolio etc, so hardwork doesn't go in vain
+things i want to include(in brackets are the info that had to be included):
+- Home(profile pic etc)(small intro(abt))(CV(as a pdf in a hyperlink) to download)(dark and light mode or other modes if possible)
+- Services(technical skills you have based on your level of expertise and services u can offer) 
+- About(abt myself(r education background, schools you studied, achievements))(local pics from birthplace)
+- review 
+- contact
+- get a quote
+- 
